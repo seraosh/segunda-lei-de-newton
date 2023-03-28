@@ -1,10 +1,9 @@
 # Calculadora da Segunda Lei de Newton
 Esta é uma calculadora simples baseada na web que permite aos usuários calcular a força resultante (F), a massa (m) ou a aceleração (a) usando a segunda lei do movimento de Newton (F = m * a). A calculadora fornece uma interface amigável para inserir os valores necessários e exibir os resultados.
 ## Recursos
-1.	Interface fácil de usar baseada em HTML e JavaScript.
-2.	Capacidade de calcular a força resultante, a massa ou a aceleração.
-3.	Validação de entrada para garantir que os valores inseridos sejam válidos.
-4.	Resultados exibidos de forma clara e fácil de entender.
+1. Interface amigável e fácil de usar
+2. Validação do formulário com mensagens de erro personalizadas
+3. Cálculo da força resultante, massa e aceleração com base na Segunda Lei de Newton
 ## Como usar
 1. Clone o repositório ou baixe o arquivo ZIP e extraia os arquivos em seu computador.
 2.	Abra o arquivo **index.html** em seu navegador da web.
